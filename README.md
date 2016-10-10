@@ -12,7 +12,8 @@ Prerequisites:
 
 - Linux (OSX untested but should be usable)
 - GNU ARM toolchain (i.e. arm-none-eabi-gcc, etc. are available)
-- OpenOCD (R/W permissions to the USB ST-Link device)
+- NUCLEO-F042K6 development board connected to USB
+- OpenOCD (and R/W permissions to the USB device)
 
 Compiling and flashing to target:
 
